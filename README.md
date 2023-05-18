@@ -1,2 +1,2 @@
 # LOTPHI
-Genearetor and validation OTP with out save in database
+Genearetor and validation OTP without save in database
