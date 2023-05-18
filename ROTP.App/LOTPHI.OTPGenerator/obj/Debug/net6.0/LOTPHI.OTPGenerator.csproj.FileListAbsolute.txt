@@ -1,0 +1,12 @@
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\bin\Debug\net6.0\LOTPHI.OTPGenerator.deps.json
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\bin\Debug\net6.0\LOTPHI.OTPGenerator.dll
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\bin\Debug\net6.0\LOTPHI.OTPGenerator.pdb
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\obj\Debug\net6.0\LOTPHI.OTPGenerator.csproj.AssemblyReference.cache
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\obj\Debug\net6.0\LOTPHI.OTPGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\obj\Debug\net6.0\LOTPHI.OTPGenerator.AssemblyInfoInputs.cache
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\obj\Debug\net6.0\LOTPHI.OTPGenerator.AssemblyInfo.cs
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\obj\Debug\net6.0\LOTPHI.OTPGenerator.csproj.CoreCompileInputs.cache
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\obj\Debug\net6.0\LOTPHI.OTPGenerator.dll
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\obj\Debug\net6.0\refint\LOTPHI.OTPGenerator.dll
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\obj\Debug\net6.0\LOTPHI.OTPGenerator.pdb
+C:\Users\r.lotfi\source\repos\ROTP.App\LOTPHI.OTPGenerator\obj\Debug\net6.0\ref\LOTPHI.OTPGenerator.dll

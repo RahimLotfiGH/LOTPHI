@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ROTP.App/1.0.0": {
+        "dependencies": {
+          "LOTPHI.OTPGenerator": "1.0.0"
+        },
+        "runtime": {
+          "ROTP.App.dll": {}
+        }
+      },
+      "LOTPHI.OTPGenerator/1.0.0": {
+        "runtime": {
+          "LOTPHI.OTPGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ROTP.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LOTPHI.OTPGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
