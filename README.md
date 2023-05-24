@@ -1,3 +1,3 @@
 # LOTPHI
-Genearetor and validation OTP without save in database
-You Can use this otp generate for base offline
+Genearetor and validation OTP without save in database.</br>
+You Can use this <b> otp generate for base offline</b>
